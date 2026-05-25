@@ -3,12 +3,12 @@
   "title": "appconfig",
   "buildParams": {
     "component": "front-end",
-    "version": "1.0"
+    "version": "1.0",
     "fullbuild": true
   },
   "otherParams": {
     "component": "back-end",
-    "version": "0.1"
+    "version": "0.1",
     "fullbuild": true
   }
 }
